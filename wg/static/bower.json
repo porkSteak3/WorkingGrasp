@@ -1,0 +1,21 @@
+{
+  "name": "WorkingGrasp",
+  "description": "Working Time Management",
+  "main": "index.html",
+  "keywords": [
+    "Admin",
+    "Management"
+  ],
+  "authors": [
+    "foo"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
